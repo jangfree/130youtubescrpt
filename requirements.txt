@@ -1,0 +1,2 @@
+PyQt5==5.15.9
+youtube_transcript_api==0.6.1
