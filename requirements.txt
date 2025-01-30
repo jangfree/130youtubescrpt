@@ -1,2 +1,4 @@
-PyQt5==5.15.9
+streamlit==1.31.0
 youtube_transcript_api==0.6.1
+protobuf>=3.20.0
+typing-extensions>=4.8.0
